@@ -1,0 +1,2 @@
+# exercicios-variaveis
+aula6 
